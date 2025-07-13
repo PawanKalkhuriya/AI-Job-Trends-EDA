@@ -9,7 +9,9 @@ AI_Job_Trends_EDA/
 │
 ├── AI_Job_Trends_EDA.ipynb   # Jupyter notebook containing all EDA steps
 ├── README.md                 # Project documentation (you are here!)
-└── data/                     # Folder for datasets
+├── AI_Job_Trends.csv                     # Folder for datasets
+├──
+└──
 ```
 
 ## 🎯 Objectives
