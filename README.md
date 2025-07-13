@@ -7,11 +7,10 @@ This project performs Exploratory Data Analysis (EDA) on AI-related job postings
 ```
 AI_Job_Trends_EDA/
 │
-├── AI_Job_Trends_EDA.ipynb   # Jupyter notebook containing all EDA steps
-├── README.md                 # Project documentation (you are here!)
-├── AI_Job_Trends.csv                     # Folder for datasets
-├──
-└──
+├── AI_Job_Trends_EDA.ipynb          # Jupyter notebook containing all EDA steps
+├── README.md                        # Project documentation (you are here!)
+├── ai_job_trends_dataset.csv        # Used dataset
+└── requrements.txt                  # Prequisits
 ```
 
 ## 🎯 Objectives
